@@ -2,6 +2,9 @@
 ![Meme](https://imgur.com/CcJcdd9.png)
 <br>
 
+## Deployed project link
+http://web-02.maiyo.tech/
+
 ## Table of Contents
 - [How to run Flask web framework](#how-to-run-flask-web-framework)
 - [Installation](#installation)
